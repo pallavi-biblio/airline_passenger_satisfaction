@@ -1,0 +1,1 @@
+This project explores the impact of **flight delays and operational metrics** on **airline passenger satisfaction**, identifying key factors that influence customer experiences. By analyzing various service and demographic features, it provides data-driven insights to help airlines enhance customer satisfaction and optimize operations.
